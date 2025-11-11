@@ -7,7 +7,7 @@ on:
       - 'build_info.txt'
 
 permissions:
-  contents: write  # This grants read/write access
+  contents: write
 
 jobs:
   build_info:
